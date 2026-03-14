@@ -26,7 +26,7 @@ This project analyzes a dataset of 426,880 used cars to identify the key factors
 ## 📁 Project Structure
 
 ```
-kaggle/practical_application_II_starter/
+car-price-prediction/
 ├── data/                          # Dataset
 │   └── vehicles.csv              # Used car dataset (426K records)
 ├── output/                        # Generated visualizations
@@ -64,7 +64,7 @@ joblib
 git clone [your-repository-url]
 
 # Navigate to the project directory
-cd kaggle/practical_application_II_starter
+cd car-price-prediction
 
 # Install required packages
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
